@@ -550,6 +550,7 @@ h1 {
 
 #premature-optimization {
   position: relative;
+
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -648,6 +649,7 @@ h1 {
 
 #distortion-of-novelty {
   position: relative;
+
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -673,6 +675,7 @@ h1 {
 
 #hyperbolic-depreciation {
   position: relative;
+
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -698,6 +701,7 @@ h1 {
 
 #errors-in-planning {
   position: relative;
+
   display: flex;
   flex-direction: column;
   align-items: center;
